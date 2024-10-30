@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { Image } from '../App'
 import Card from './Card'
 interface Props{

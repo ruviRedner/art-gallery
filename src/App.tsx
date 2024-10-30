@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react'
+import  { useEffect, useState } from 'react'
 import ImageList from './comp/imageList';
 import CardDetails from './comp/CardDetails';
 export interface Image {
